@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&display=swap');
+
 
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Mooli', sans-serif;
+    font-family: 'Kanit', sans-serif;
 }
 
 body{
@@ -73,7 +75,7 @@ body{
 
 .output-container{
     background-color: #622A0f;
-    font-family: "Mooli", sans-serif;
+    font-family: 'Kanit', sans-serif;
     color: #fff;
     border-radius: 0.3em;
     box-shadow: 0 0.6em 1.2em rgba(28, 0, 80, 0.06);
@@ -96,7 +98,7 @@ body{
 .submit{
     font-size: 1em;
     margin-top: 0.8em;
-    background-color: #587ef4;
+    background-color: #622A0f;
     border: none;
     outline: none;
     color: #fff;
